@@ -1,4 +1,4 @@
-# demos
+# OpenSDS Demos
 All OpenSDS Demos go here!
 
 
