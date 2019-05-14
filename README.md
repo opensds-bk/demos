@@ -15,3 +15,17 @@ Guide:
 4. Demo presentation
 5. All the needed scripts and other files. 
 6. The demo folder can be self sufficient
+
+
+Guidlines for creating the demo video:
+
+1. Make demo videos for each sub-features. 
+2. Follow Naming Convention. <br />
+   \<part-number\>\_\<feature-topic\>\_\<sub-feature\>.mp4 <br />
+   For Example: <br />
+   001_Telemetry_Overview.mp4 <br />
+   002_Telemetry_Data-Collection-Reporting.mp4 <br />
+   ...... <br />
+3. Ensure High resolution i.e. 1080p video quality.
+4. Use Annotations, Highlighters, Blurs etc. wherever required.
+5. Add readme file for each demo video explaining the video content.
